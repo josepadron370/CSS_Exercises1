@@ -1,0 +1,36 @@
+body {
+	background-image: url("http://assets.breatheco.de/apis/img/bg/background-vertical.jpg");
+	background-repeat: repeat-y;
+}
+
+h1 {
+	font-family: Courier;
+	color: red;
+	text-align: center;
+}
+
+h2 {
+	text-decoration: underline;
+}
+
+h2,
+p,
+ol,
+ul,
+a {
+	font-family: "Times New Roman", Times, serif;
+}
+
+body {
+	padding-left: 20px;
+}
+
+a:hover {
+	color: green;
+	text-decoration: none;
+}
+
+#know {
+	background: rgba(0, 0, 0, 0.2);
+	padding: 5px;
+}
