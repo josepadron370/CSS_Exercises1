@@ -8,6 +8,14 @@ ol li div {
 	background: green;
 }
 
+tr:nth-child(odd) {
+	background-color: yellow;
+}
+
+/* ol:nth-child(2) {
+	background: green;
+} */
+
 /*********** READ ONLY BLOCK ******
 You CAN NOT UPDATE anything from here on,
 only add lines of code on top of this lines
